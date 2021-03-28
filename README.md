@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-<img src="https://i.imgur.com/28hRTv5.gif" width="40" height="40" />
+<img src="https://i.imgur.com/28hRTv5.gif"   />
 <!--
+height="40"
+width="40"
 **Raphael3c/Raphael3c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
