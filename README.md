@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
+![](https://github.com/Raphael3c/Raphael3c/blob/master/objection-1215194.gif | width=100)
 <!--
 **Raphael3c/Raphael3c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
