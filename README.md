@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://imgur.com/28hRTv5" width="40" height="40" />
+![Alt Text](https://imgur.com/28hRTv5)
 <!--
 **Raphael3c/Raphael3c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
