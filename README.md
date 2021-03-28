@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <img src="https://i.imgur.com/28hRTv5.gif" width="480" align=”center”/>
 <!--
 height="40"
