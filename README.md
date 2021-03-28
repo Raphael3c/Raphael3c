@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://i.imgur.com/28hRTv5.gif" width="480" />
+<img src="https://i.imgur.com/28hRTv5.gif" width="480" align=”center”/>
 <!--
 height="40"
 width="40"
