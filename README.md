@@ -1,17 +1,16 @@
 <img src="https://i.imgur.com/28hRTv5.gif" width="480" align=”center”/>
-<!--
-height="40"
-width="40"
-**Raphael3c/Raphael3c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Raphael Cavalcante <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+Computer science student at Federal University of Ceará
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Mobile development enthusiast with React Native.
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-Levi%20Araújo-b32d00?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leviaraujo/)](https://www.linkedin.com/in/raphaelcsilva/) [![Gmail Badge](https://img.shields.io/badge/-leviaraujo182@gmail.com-b32d00?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leviaraujo182@gmail.com)](mailto:phael.ufc@gmail.com)
+
+
+<details>
+  <summary>:zap: Languages</summary>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raphael3c&layout=compact&bg_color=ffffff&text_color=333333">
+</details>
