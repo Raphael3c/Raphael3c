@@ -3,11 +3,7 @@
 # Raphael Cavalcante <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 Computer science student at Federal University of Ceará
 
-
-Mobile development enthusiast with React Native.
-
-
-[![Linkedin Badge](https://img.shields.io/badge/-Levi%20Araújo-b32d00?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leviaraujo/)](https://www.linkedin.com/in/raphaelcsilva/) [![Gmail Badge](https://img.shields.io/badge/-leviaraujo182@gmail.com-b32d00?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leviaraujo182@gmail.com)](mailto:phael.ufc@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Raphael%20Cavalcante-b32d00?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raphaelcsilva/)](https://www.linkedin.com/in/raphaelcsilva/) [![Gmail Badge](https://img.shields.io/badge/-phael.ufc@gmail.com-b32d00?style=flat-square&logo=Gmail&logoColor=white&link=mailto:phael.ufc@gmail.com)](mailto:phael.ufc@gmail.com)
 
 
 <details>
