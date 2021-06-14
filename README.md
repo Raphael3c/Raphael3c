@@ -8,5 +8,5 @@ Computer science student at Federal University of Ceará
 
 <details>
   <summary>:zap: Languages</summary>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raphael3c&layout=compact&bg_color=273469&text_color=333333">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raphael3c&layout=compact&bg_color=E4D9FF&text_color=273469">
 </details>
